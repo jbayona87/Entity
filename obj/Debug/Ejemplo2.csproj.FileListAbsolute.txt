@@ -1,0 +1,10 @@
+c:\users\visual_dom\documents\visual studio 2015\Projects\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.exe.config
+c:\users\visual_dom\documents\visual studio 2015\Projects\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.exe
+c:\users\visual_dom\documents\visual studio 2015\Projects\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.pdb
+c:\users\visual_dom\documents\visual studio 2015\Projects\Ejemplo2\Ejemplo2\bin\Debug\EntityFramework.dll
+c:\users\visual_dom\documents\visual studio 2015\Projects\Ejemplo2\Ejemplo2\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\visual_dom\documents\visual studio 2015\Projects\Ejemplo2\Ejemplo2\bin\Debug\EntityFramework.xml
+c:\users\visual_dom\documents\visual studio 2015\Projects\Ejemplo2\Ejemplo2\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\visual_dom\documents\visual studio 2015\Projects\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.csprojResolveAssemblyReference.cache
+c:\users\visual_dom\documents\visual studio 2015\Projects\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.exe
+c:\users\visual_dom\documents\visual studio 2015\Projects\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.pdb
